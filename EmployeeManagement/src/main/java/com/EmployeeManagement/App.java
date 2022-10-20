@@ -55,7 +55,7 @@ public class App {
 				id = sc1.nextInt();
 				ee = office.findEmployee(id);
 				if (ee == null)
-					System.out.println("Student not found.......");
+					System.out.println("Employee not found.......");
 				else
 					System.out.println("Employee Id :" + ee.getId() + "  Name:" + ee.getName() + " Designation: "
 							+ ee.getDesignation() + " Salary:" + ee.getSalary());
