@@ -1,4 +1,4 @@
-package com.EmployeeManagement;
+package com.ProductRetailerManagement;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
